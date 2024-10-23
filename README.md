@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<a href="https://workspace.google.com/intl/ko/gmail/" target="_blank"><img src="https://img.shields.io/badge/0sunghee122@gmail.com-#EA4335?style=flat&logo=appveyor&logo=#EA4335&logoColor=FFFFFF"/></a>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangseun&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jangseun
+
