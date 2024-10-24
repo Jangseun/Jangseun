@@ -1,19 +1,6 @@
 ## Hi there 👋
-
-<!--
-**Jangseun/Jangseun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=Waving
+&color=gradient&height=300&section=header&text=Hello!!&desc=well come to my github&fontSize=100&fontAlignY=40 " />
 
 <h3 align="center">🌱 Studying 🌱</h3>
 <div align="center">
@@ -36,7 +23,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/jangseung11-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
 </div>
 
-<h3 align="center">📈 stats 📈</h3>
+
 <h9>ㅤ</h9>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangseun&show_icons=true&theme=radical)
