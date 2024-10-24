@@ -1,6 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=Waving
-&color=gradient&height=300&section=header&text=Hello!!&desc=well come to my github&fontSize=100&fontAlignY=40 " />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hello!!&desc=well come to my github&fontSize=100&fontAlignY=40 " />
 
 <h3 align="center">🌱 Studying 🌱</h3>
 <div align="center">
