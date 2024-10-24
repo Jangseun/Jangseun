@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 </div>
 
 <h3 align="center">📈 stats 📈</h3>
+<h6>ㅤ</h6>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangseun&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jangseun&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jangseun\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
