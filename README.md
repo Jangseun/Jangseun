@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello!!&desc=well%20come%20to%20my%20github&fontSize=100&fontAlignY=40" />
 
 
-<h3 align="center">🌱 Studying 🌱</h3>
+
+<h3 align="center">🌱 Stack 🌱</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-272727?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -23,7 +24,14 @@
 </div>
 
 
-<h9>ㅤ</h9>
+<h3></h3>
+<div align="center">
+<a href="https://wakatime.com/@fd6869de-70ad-450d-afba-272b60fdc4d3"><img src="https://wakatime.com/badge/user/fd6869de-70ad-450d-afba-272b60fdc4d3.svg" alt="Total time coded since Nov 1 2024" /></a>
+</div>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangseun&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jangseun\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
