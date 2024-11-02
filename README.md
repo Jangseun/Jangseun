@@ -24,10 +24,6 @@
 </div>
 
 
-<h3></h3>
-<div align="center">
-<a href="https://wakatime.com/@fd6869de-70ad-450d-afba-272b60fdc4d3"><img src="https://wakatime.com/badge/user/fd6869de-70ad-450d-afba-272b60fdc4d3.svg" alt="Total time coded since Nov 1 2024" /></a>
-</div>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangseun&show_icons=true&theme=radical)
@@ -35,6 +31,11 @@
 
 
 <!--START_SECTION:waka-->
+
+<h3></h3>
+<div align="center">
+<a href="https://wakatime.com/@fd6869de-70ad-450d-afba-272b60fdc4d3"><img src="https://wakatime.com/badge/user/fd6869de-70ad-450d-afba-272b60fdc4d3.svg" alt="Total time coded since Nov 1 2024" /></a>
+</div>
 
 
 **🐱 My GitHub Data** 
