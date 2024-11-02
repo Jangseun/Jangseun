@@ -37,7 +37,7 @@
 
 
 
-
+---
 <h3 align="center">💻 Study Stats 💻</h3>
 
 ---
