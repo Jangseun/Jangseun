@@ -26,9 +26,6 @@
 
 <h3></h3>
 
-<div align="center">
-<a href="https://wakatime.com/@fd6869de-70ad-450d-afba-272b60fdc4d3"><img src="https://wakatime.com/badge/user/fd6869de-70ad-450d-afba-272b60fdc4d3.svg" alt="Total time coded since Nov 1 2024" /></a>
-</div>
 
 
 <h3></h3>
@@ -42,7 +39,11 @@
 <!--START_SECTION:waka-->
 
 ---
-
+<div align="center">
+  <a href="https://wakatime.com/@fd6869de-70ad-450d-afba-272b60fdc4d3"><img src="https://wakatime.com/badge/user/fd6869de-70ad-450d-afba-272b60fdc4d3.svg"  alt="Total time coded since Nov 1 2024" /></a>
+  <p><img src="http://img.shields.io/badge/Code%20Time-38%20mins-blue" alt="Code Time"></p>
+  <p><img src="http://img.shields.io/badge/Profile%20Views-64-blue" alt="Profile Views"></p>
+</div>
 
 >📅 **I'm Most Productive on Tuesday** 
 
