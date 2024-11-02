@@ -24,35 +24,25 @@
 </div>
 
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangseun&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jangseun\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--START_SECTION:waka-->
-
 <h3></h3>
+
 <div align="center">
 <a href="https://wakatime.com/@fd6869de-70ad-450d-afba-272b60fdc4d3"><img src="https://wakatime.com/badge/user/fd6869de-70ad-450d-afba-272b60fdc4d3.svg" alt="Total time coded since Nov 1 2024" /></a>
 </div>
 
 
-**🐱 My GitHub Data** 
+<h3></h3>
 
-> 📦 32.5 kB Used in GitHub's Storage 
- > 
-> 🏆 197 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangseun&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&theme=radical&layout=compact)
 
 
-📅 **I'm Most Productive on Tuesday** 
+<!--START_SECTION:waka-->
+
+---
+
+
+>📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
@@ -65,7 +55,7 @@ Sunday                   15 commits          ██░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+>📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Seoul
@@ -83,14 +73,6 @@ Jangseun                 3 mins              ███████████�
 Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-JavaScript               3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-```
 
 
 
