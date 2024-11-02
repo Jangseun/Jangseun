@@ -30,11 +30,11 @@
 </div>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangseun&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jangseun\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
 
