@@ -43,28 +43,8 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 32.5 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-🌆 Daytime                27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-🌃 Evening                140 commits         █████████████████░░░░░░░░   68.29 % 
-🌙 Night                  11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
@@ -104,11 +84,6 @@ JavaScript               3 repos             ███████████�
 CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
  Last Updated on 02/11/2024 18:41:54 UTC
