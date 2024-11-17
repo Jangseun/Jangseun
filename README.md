@@ -43,13 +43,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 32.7 kB Used in GitHub's Storage 
+> 📦 32.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,45 +57,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-🌆 Daytime                75 commits          █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-🌃 Evening                232 commits         ███████████████░░░░░░░░░░   60.10 % 
-🌙 Night                  52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Tuesday                  80 commits          █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Wednesday                34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Thursday                 76 commits          █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Friday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Saturday                 102 commits         ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-Sunday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Svelte                   37 hrs 8 mins       █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  37 hrs 8 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-pie_project              37 hrs 8 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  37 hrs 8 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -112,7 +73,7 @@ CSS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2024 18:42:56 UTC
+ Last Updated on 17/11/2024 18:43:46 UTC
 <!--END_SECTION:waka-->
 ---
 
