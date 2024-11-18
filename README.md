@@ -43,7 +43,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,12 +51,54 @@
 
 > 📦 32.8 kB Used in GitHub's Storage 
  > 
+> 🏆 436 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+🌆 Daytime                75 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+🌃 Evening                251 commits         ███████████████░░░░░░░░░░   58.64 % 
+🌙 Night                  75 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Tuesday                  95 commits          ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+Wednesday                34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Thursday                 76 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Friday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Saturday                 102 commits         ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+Sunday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Svelte                   38 hrs 1 min        █████████████████████████   99.98 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔥 Editors: 
+VS Code                  38 hrs 1 min        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+pie_project              38 hrs 1 min        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  38 hrs 1 min        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -73,7 +115,7 @@ CSS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2024 18:43:46 UTC
+ Last Updated on 18/11/2024 18:47:08 UTC
 <!--END_SECTION:waka-->
 ---
 
