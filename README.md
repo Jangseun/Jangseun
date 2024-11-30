@@ -51,8 +51,6 @@
 
 > 📦 32.9 kB Used in GitHub's Storage 
  > 
-> 🏆 467 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -86,16 +84,16 @@ Sunday                   47 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Svelte                   1 hr 17 mins        █████████████████████████   100.00 % 
+Svelte                   40 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 17 mins        █████████████████████████   100.00 % 
+VS Code                  40 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pie_project              1 hr 17 mins        █████████████████████████   100.00 % 
+pie_project              40 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
+Windows                  40 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,7 +113,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 29/11/2024 18:46:20 UTC
+ Last Updated on 30/11/2024 18:44:17 UTC
 <!--END_SECTION:waka-->
 ---
 
