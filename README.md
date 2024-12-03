@@ -51,6 +51,8 @@
 
 > 📦 33.4 kB Used in GitHub's Storage 
  > 
+> 🏆 467 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -115,7 +117,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 02/12/2024 18:47:55 UTC
+ Last Updated on 03/12/2024 18:47:05 UTC
 <!--END_SECTION:waka-->
 ---
 
