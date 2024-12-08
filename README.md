@@ -51,6 +51,8 @@
 
 > 📦 33.4 kB Used in GitHub's Storage 
  > 
+> 🏆 467 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -84,18 +86,16 @@ Sunday                   52 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Svelte                   1 hr 12 mins        █████████████████████████   99.81 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-I-don-t-study            1 hr 1 min          █████████████████████░░░░   84.91 % 
-pie_project              11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Svelte** 
@@ -115,7 +115,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2024 18:45:22 UTC
+ Last Updated on 08/12/2024 18:45:00 UTC
 <!--END_SECTION:waka-->
 ---
 
