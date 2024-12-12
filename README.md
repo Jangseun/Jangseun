@@ -43,13 +43,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 39.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 471 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,16 +86,22 @@ Sunday                   52 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 10 mins       █████████████████████████   98.66 % 
+Svelte                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+python_learn             2 hrs 5 mins        ████████████████████████░   94.55 % 
+코딩_ python               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+I-don-t-study            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+pie_project              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Svelte** 
@@ -113,7 +121,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 11/12/2024 18:48:30 UTC
+ Last Updated on 12/12/2024 18:48:28 UTC
 <!--END_SECTION:waka-->
 ---
 
