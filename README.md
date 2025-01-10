@@ -43,11 +43,13 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2032%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 40.1 kB Used in GitHub's Storage 
+> 📦 40.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -116,7 +118,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2025 18:46:02 UTC
+ Last Updated on 10/01/2025 18:45:11 UTC
 <!--END_SECTION:waka-->
 ---
 
