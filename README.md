@@ -51,8 +51,6 @@
 
 > 📦 40.2 kB Used in GitHub's Storage 
  > 
-> 🏆 13 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -86,21 +84,16 @@ Sunday                   83 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Svelte                   36 mins             ██████████░░░░░░░░░░░░░░░   41.89 % 
-JSON                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-TypeScript               16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Python                   12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-TSConfig                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-pie_project              1 hr 15 mins        █████████████████████░░░░   85.83 % 
-event-calendar-project   12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -120,7 +113,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2025 18:43:30 UTC
+ Last Updated on 15/01/2025 18:42:56 UTC
 <!--END_SECTION:waka-->
 ---
 
