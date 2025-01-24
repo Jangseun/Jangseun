@@ -43,7 +43,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
@@ -116,7 +116,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 23/01/2025 18:44:41 UTC
+ Last Updated on 24/01/2025 18:43:47 UTC
 <!--END_SECTION:waka-->
 ---
 
