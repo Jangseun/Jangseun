@@ -43,9 +43,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -57,6 +57,46 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+🌆 Daytime                164 commits         ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+🌃 Evening                346 commits         █████████████░░░░░░░░░░░░   52.03 % 
+🌙 Night                  103 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Tuesday                  132 commits         █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Wednesday                92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Thursday                 129 commits         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Friday                   58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Saturday                 123 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Sunday                   83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+TypeScript               5 hrs 3 mins        █████████████████████████   99.98 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 3 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+event-calendar-project   5 hrs 3 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  5 hrs 3 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -74,7 +114,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2025 18:44:13 UTC
+ Last Updated on 30/01/2025 18:43:57 UTC
 <!--END_SECTION:waka-->
 ---
 
