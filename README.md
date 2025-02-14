@@ -115,7 +115,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2025 18:45:13 UTC
+ Last Updated on 14/02/2025 18:44:20 UTC
 <!--END_SECTION:waka-->
 ---
 
