@@ -43,15 +43,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 40.2 kB Used in GitHub's Storage 
- > 
-> 🏆 83 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,17 +84,17 @@ Sunday                   85 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               3 hrs 58 mins       █████████████████████████   99.98 % 
+TypeScript               5 hrs 10 mins       █████████████████████████   99.98 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-event-calendar-project   3 hrs 58 mins       █████████████████████████   100.00 % 
+event-calendar-project   5 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,7 +114,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2025 18:46:39 UTC
+ Last Updated on 28/02/2025 18:45:53 UTC
 <!--END_SECTION:waka-->
 ---
 
