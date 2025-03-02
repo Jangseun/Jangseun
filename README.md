@@ -43,13 +43,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 40.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 86 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -115,7 +117,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2025 18:43:01 UTC
+ Last Updated on 02/03/2025 18:44:44 UTC
 <!--END_SECTION:waka-->
 ---
 
