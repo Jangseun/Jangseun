@@ -43,15 +43,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 40.2 kB Used in GitHub's Storage 
- > 
-> 🏆 116 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,18 +84,18 @@ Sunday                   92 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               12 hrs 38 mins      ███████████████████████░░   91.80 % 
-Python                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+TypeScript               13 hrs 11 mins      ███████████████████████░░   92.11 % 
+Python                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 18 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-event-calendar-project   13 hrs 44 mins      █████████████████████████   99.70 % 
-django_project           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+event-calendar-project   14 hrs 16 mins      █████████████████████████   99.71 % 
+django_project           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Windows                  13 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,7 +115,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 09/03/2025 18:38:11 UTC
+ Last Updated on 10/03/2025 18:45:49 UTC
 <!--END_SECTION:waka-->
 ---
 
