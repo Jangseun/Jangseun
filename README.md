@@ -43,7 +43,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -84,18 +84,18 @@ Sunday                   92 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               13 hrs 11 mins      ███████████████████████░░   92.11 % 
-Python                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+TypeScript               12 hrs 31 mins      ████████████████████████░   95.23 % 
+Python                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 18 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-event-calendar-project   14 hrs 16 mins      █████████████████████████   99.71 % 
-django_project           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+event-calendar-project   13 hrs 6 mins       █████████████████████████   99.69 % 
+django_project           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Windows                  14 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,7 +115,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2025 18:45:49 UTC
+ Last Updated on 11/03/2025 18:47:33 UTC
 <!--END_SECTION:waka-->
 ---
 
