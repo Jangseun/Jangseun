@@ -51,7 +51,7 @@
 
 > 📦 40.3 kB Used in GitHub's Storage 
  > 
-> 🏆 162 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,16 +86,19 @@ Sunday                   109 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      2 mins              ████████████████░░░░░░░░░   63.61 % 
+JavaScript               1 min               ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+srh_photo                4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,7 +118,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2025 18:48:06 UTC
+ Last Updated on 03/04/2025 18:47:39 UTC
 <!--END_SECTION:waka-->
 ---
 
