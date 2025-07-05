@@ -115,7 +115,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2025 18:49:54 UTC
+ Last Updated on 05/07/2025 18:48:01 UTC
 <!--END_SECTION:waka-->
 ---
 
