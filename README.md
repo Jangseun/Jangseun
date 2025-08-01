@@ -53,6 +53,8 @@ Hello
 
 > 📦 416.5 kB Used in GitHub's Storage 
  > 
+> 🏆 391 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 23 Public Repositories 
@@ -123,7 +125,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2025 18:56:17 UTC
+ Last Updated on 01/08/2025 18:55:36 UTC
 <!--END_SECTION:waka-->
 ---
 
