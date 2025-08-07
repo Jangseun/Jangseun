@@ -86,22 +86,16 @@ Sunday                   150 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               28 mins             █████████████████░░░░░░░░   66.23 % 
-JavaScript               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-JSON                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-CSS                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-chatoak-FE               39 mins             ███████████████████████░░   90.09 % 
-srh_photo                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-sortdoll-front           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-django_project           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +115,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2025 18:55:56 UTC
+ Last Updated on 07/08/2025 18:58:02 UTC
 <!--END_SECTION:waka-->
 ---
 
