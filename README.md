@@ -45,15 +45,13 @@ Hello
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 418.9 kB Used in GitHub's Storage 
- > 
-> 🏆 402 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,18 +86,18 @@ Sunday                   152 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-CSS                      6 hrs 45 mins       ███████████████░░░░░░░░░░   61.21 % 
-HTML                     2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.86 % 
-JavaScript               1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+CSS                      7 hrs 59 mins       ███████████████░░░░░░░░░░   60.69 % 
+HTML                     3 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+JavaScript               1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 2 mins       █████████████████████████   100.00 % 
+VS Code                  13 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-WebDesign_learn          11 hrs 2 mins       █████████████████████████   100.00 % 
+WebDesign_learn          13 hrs 9 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +117,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2025 18:47:49 UTC
+ Last Updated on 28/08/2025 18:49:26 UTC
 <!--END_SECTION:waka-->
 ---
 
