@@ -88,16 +88,16 @@ Sunday                   153 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mindmap-project          0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,7 +117,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2025 18:48:12 UTC
+ Last Updated on 18/09/2025 18:49:22 UTC
 <!--END_SECTION:waka-->
 ---
 
