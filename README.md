@@ -45,6 +45,8 @@ Hello
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2043%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -59,6 +61,45 @@ Hello
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+🌆 Daytime                224 commits         ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+🌃 Evening                435 commits         ███████████░░░░░░░░░░░░░░   45.84 % 
+🌙 Night                  195 commits         █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Tuesday                  134 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Wednesday                150 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Thursday                 183 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Friday                   92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Saturday                 173 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Sunday                   153 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -76,7 +117,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 18:47:40 UTC
+ Last Updated on 04/10/2025 18:44:47 UTC
 <!--END_SECTION:waka-->
 ---
 
