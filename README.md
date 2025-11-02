@@ -51,7 +51,7 @@ Hello
 
 > 📦 421.9 kB Used in GitHub's Storage 
  > 
-> 🏆 548 Contributions in the Year 2025
+> 🏆 551 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,7 +76,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2025 18:45:00 UTC
+ Last Updated on 02/11/2025 18:44:50 UTC
 <!--END_SECTION:waka-->
 ---
 
