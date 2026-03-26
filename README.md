@@ -45,7 +45,7 @@ Hello
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-340%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -88,17 +88,19 @@ Sunday                   149 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               38 mins             █████████████████████░░░░   84.44 % 
-JavaScript               7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+JavaScript               1 hr 45 mins        █████████████████░░░░░░░░   67.19 % 
+TypeScript               51 mins             ████████░░░░░░░░░░░░░░░░░   32.62 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Ender-Intel              45 mins             █████████████████████████   100.00 % 
+Ender-Intel              2 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  45 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +120,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2026 19:26:03 UTC
+ Last Updated on 26/03/2026 19:38:00 UTC
 <!--END_SECTION:waka-->
 ---
 
