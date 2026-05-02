@@ -117,7 +117,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2026 19:48:16 UTC
+ Last Updated on 02/05/2026 19:35:29 UTC
 <!--END_SECTION:waka-->
 ---
 
