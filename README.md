@@ -45,13 +45,13 @@ Hello
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 416.3 kB Used in GitHub's Storage 
+> 📦 416.4 kB Used in GitHub's Storage 
  > 
 > 🏆 37 Contributions in the Year 2026
  > 
@@ -123,7 +123,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 20:20:47 UTC
+ Last Updated on 22/05/2026 20:20:30 UTC
 <!--END_SECTION:waka-->
 ---
 
