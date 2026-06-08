@@ -45,6 +45,8 @@ Hello
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2030%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -86,21 +88,16 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-CSS                      22 mins             █████████████░░░░░░░░░░░░   50.53 % 
-HTML                     13 mins             ████████░░░░░░░░░░░░░░░░░   30.29 % 
-JavaScript               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-웹디자인 기능사                 36 mins             █████████████████████░░░░   83.34 % 
-Ender-Intel              7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +117,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 19:55:26 UTC
+ Last Updated on 08/06/2026 20:40:42 UTC
 <!--END_SECTION:waka-->
 ---
 
