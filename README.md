@@ -51,7 +51,7 @@ Hello
 
 **🐱 My GitHub Data** 
 
-> 📦 416.4 kB Used in GitHub's Storage 
+> 📦 416.5 kB Used in GitHub's Storage 
  > 
 > 🏆 49 Contributions in the Year 2026
  > 
@@ -118,7 +118,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 22/06/2026 21:20:40 UTC
+ Last Updated on 23/06/2026 20:34:32 UTC
 <!--END_SECTION:waka-->
 ---
 
