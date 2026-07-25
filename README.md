@@ -45,6 +45,8 @@ Hello
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2030%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -59,6 +61,50 @@ Hello
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+🌆 Daytime                254 commits         ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
+🌃 Evening                435 commits         ███████████░░░░░░░░░░░░░░   44.34 % 
+🌙 Night                  199 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Tuesday                  125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Wednesday                173 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Thursday                 208 commits         █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Friday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Saturday                 163 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Sunday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+JavaScript               2 hrs 39 mins       ██████████████░░░░░░░░░░░   57.76 % 
+Python                   45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Markdown                 39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+
+🔥 Editors: 
+Claude Code              4 hrs 7 mins        ██████████████████████░░░   89.40 % 
+VS Code                  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+
+🐱‍💻 Projects: 
+Wansik                   4 hrs 36 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  4 hrs 36 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -76,7 +122,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:56:29 UTC
+ Last Updated on 25/07/2026 19:44:42 UTC
 <!--END_SECTION:waka-->
 ---
 
