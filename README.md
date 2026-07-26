@@ -88,21 +88,16 @@ Sunday                   123 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               2 hrs 39 mins       ██████████████░░░░░░░░░░░   57.76 % 
-Python                   45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Markdown                 39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              4 hrs 7 mins        ██████████████████████░░░   89.40 % 
-VS Code                  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Wansik                   4 hrs 36 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 36 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +117,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:44:42 UTC
+ Last Updated on 26/07/2026 19:44:51 UTC
 <!--END_SECTION:waka-->
 ---
 
