@@ -66,21 +66,21 @@ Hello
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-🌆 Daytime                253 commits         ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-🌃 Evening                434 commits         ███████████░░░░░░░░░░░░░░   44.33 % 
-🌙 Night                  199 commits         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+🌞 Morning                92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+🌆 Daytime                250 commits         ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+🌃 Evening                427 commits         ███████████░░░░░░░░░░░░░░   44.11 % 
+🌙 Night                  199 commits         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Tuesday                  124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Wednesday                172 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Thursday                 208 commits         █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-Friday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Saturday                 163 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Sunday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Monday                   90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Wednesday                168 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Thursday                 208 commits         █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+Friday                   97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Saturday                 163 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Sunday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
 ```
 
 
@@ -111,11 +111,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ██████████░░░░░░░░░░░░░░░   39.29 % 
-Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Svelte                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JavaScript               11 repos            ██████████░░░░░░░░░░░░░░░   40.74 % 
+Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Svelte                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
@@ -125,7 +125,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 19:08:22 UTC
+ Last Updated on 18/08/2026 19:08:01 UTC
 <!--END_SECTION:waka-->
 ---
 
