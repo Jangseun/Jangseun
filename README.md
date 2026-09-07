@@ -90,29 +90,30 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               4 hrs 39 mins       ███████████████████████░░   93.81 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+JavaScript               4 hrs 39 mins       ███████████████████████░░   93.23 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 10 mins       ████████████████░░░░░░░░░   63.76 % 
-Claude Code              1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   36.24 % 
+VS Code                  3 hrs 11 mins       ████████████████░░░░░░░░░   63.98 % 
+Claude Code              1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   36.02 % 
 
 🐱‍💻 Projects: 
-Glitter                  4 hrs 58 mins       █████████████████████████   100.00 % 
+Glitter                  4 hrs 58 mins       █████████████████████████   99.38 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 💻 Operating System: 
-Windows                  4 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 55 mins (38.77%)
+⏱ AI Coding Time: 1 hr 55 mins (38.53%)
 
-✍️ 931 lines written by AI, 376 lines written by hand (71.23% AI-written)
+✍️ 931 lines written by AI, 377 lines written by hand (71.18% AI-written)
 
 🔤 233,805 Input Tokens, 139,261 Output Tokens
 
@@ -123,10 +124,10 @@ Windows                  4 hrs 58 mins       ███████████�
 Sonnet                   972 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.23% of written lines came from AI
+🤖 AI-Driven — 71.18% of written lines came from AI
 📄 Detailed Prompter — average 861 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 36.64% of changed lines were hand-edited
+🚀 High AI Trust — 37.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -146,7 +147,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 20:42:02 UTC
+ Last Updated on 07/09/2026 21:43:25 UTC
 <!--END_SECTION:waka-->
 ---
 
