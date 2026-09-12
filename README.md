@@ -90,41 +90,22 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               1 hr 20 mins        ████████████████████████░   97.73 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Python                   1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              1 hr 13 mins        ███████████████████████░░   90.20 % 
-VS Code                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Glitter                  1 hr 20 mins        ████████████████████████░   97.73 % 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Unknown Project          1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 17 mins (94.66%)
-
-✍️ 576 lines written by AI, 4 lines written by hand (99.31% AI-written)
-
-🔤 133,713 Input Tokens, 84,810 Output Tokens
-
-💵 $6.16 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 13 AI Prompts
-
-Sonnet                   593 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.31% of written lines came from AI
-📝 Concise Prompter — average 332 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 4.97% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,7 +125,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 21:10:36 UTC
+ Last Updated on 12/09/2026 20:49:35 UTC
 <!--END_SECTION:waka-->
 ---
 
