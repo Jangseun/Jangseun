@@ -66,21 +66,21 @@ Hello
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-🌆 Daytime                257 commits         ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-🌃 Evening                428 commits         ███████████░░░░░░░░░░░░░░   43.85 % 
-🌙 Night                  199 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+🌞 Morning                92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+🌆 Daytime                258 commits         ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+🌃 Evening                428 commits         ███████████░░░░░░░░░░░░░░   43.81 % 
+🌙 Night                  199 commits         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Wednesday                168 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Thursday                 208 commits         █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-Friday                   103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Saturday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Sunday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Monday                   90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Wednesday                169 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Thursday                 208 commits         █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Friday                   103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Saturday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Sunday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
 ```
 
 
@@ -90,22 +90,41 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               36 mins             █████████████████████░░░░   84.13 % 
+CSS                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              25 mins             ███████████████░░░░░░░░░░   58.65 % 
+VS Code                  17 mins             ██████████░░░░░░░░░░░░░░░   41.35 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Glitter                  42 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  42 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 27 mins (64.86%)
+
+✍️ 66 lines written by AI, 16 lines written by hand (80.49% AI-written)
+
+🔤 11,564 Input Tokens, 6,816 Output Tokens
+
+💵 $1.76 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Sonnet                   74 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 80.49% of written lines came from AI
+📝 Concise Prompter — average 67 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 29.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -125,7 +144,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 21:35:13 UTC
+ Last Updated on 23/09/2026 21:41:40 UTC
 <!--END_SECTION:waka-->
 ---
 
