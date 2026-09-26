@@ -45,7 +45,7 @@ Hello
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2053%20mins-blue?style=flat)
 
@@ -90,27 +90,29 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               36 mins             █████████████████████░░░░   84.13 % 
-CSS                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+JavaScript               36 mins             ██████████████████░░░░░░░   70.54 % 
+Python                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+CSS                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-Claude Code              25 mins             ███████████████░░░░░░░░░░   58.65 % 
-VS Code                  17 mins             ██████████░░░░░░░░░░░░░░░   41.35 % 
+VS Code                  25 mins             █████████████░░░░░░░░░░░░   50.83 % 
+Claude Code              25 mins             ████████████░░░░░░░░░░░░░   49.17 % 
 
 🐱‍💻 Projects: 
-Glitter                  42 mins             █████████████████████████   100.00 % 
+Glitter                  42 mins             █████████████████████░░░░   83.84 % 
+Unknown Project          8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.00 % 
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 mins (64.86%)
+⏱ AI Coding Time: 27 mins (54.38%)
 
-✍️ 66 lines written by AI, 16 lines written by hand (80.49% AI-written)
+✍️ 66 lines written by AI, 34 lines written by hand (66.0% AI-written)
 
 🔤 11,564 Input Tokens, 6,816 Output Tokens
 
@@ -121,10 +123,10 @@ Windows                  42 mins             ███████████�
 Sonnet                   74 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.49% of written lines came from AI
+🤖 AI-Driven — 66.0% of written lines came from AI
 📝 Concise Prompter — average 67 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 29.03% of changed lines were hand-edited
+🚀 High AI Trust — 40.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,7 +146,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 21:46:15 UTC
+ Last Updated on 26/09/2026 21:24:32 UTC
 <!--END_SECTION:waka-->
 ---
 
