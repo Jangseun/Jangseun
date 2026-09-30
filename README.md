@@ -90,44 +90,43 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               54 mins             ███████████████░░░░░░░░░░   58.81 % 
-CSS                      21 mins             ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-Python                   16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+JavaScript               18 mins             █████████░░░░░░░░░░░░░░░░   36.85 % 
+Python                   16 mins             ████████░░░░░░░░░░░░░░░░░   32.42 % 
+CSS                      15 mins             ████████░░░░░░░░░░░░░░░░░   30.72 % 
 
 🔥 Editors: 
-Claude Code              1 hr 2 mins         █████████████████░░░░░░░░   67.55 % 
-VS Code                  29 mins             ████████░░░░░░░░░░░░░░░░░   32.45 % 
+Claude Code              37 mins             ███████████████████░░░░░░   75.26 % 
+VS Code                  12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
 
 🐱‍💻 Projects: 
-Glitter                  1 hr 24 mins        ███████████████████████░░   91.05 % 
-Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Glitter                  41 mins             █████████████████████░░░░   83.30 % 
+Unknown Project          8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
 
 💻 Operating System: 
-Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
+Windows                  49 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 5 mins (71.32%)
+⏱ AI Coding Time: 38 mins (76.93%)
 
-✍️ 2,254 lines written by AI, 35 lines written by hand (98.47% AI-written)
+✍️ 2,188 lines written by AI, 19 lines written by hand (99.14% AI-written)
 
-🔤 291,771 Input Tokens, 89,520 Output Tokens
+🔤 280,207 Input Tokens, 82,704 Output Tokens
 
-💵 $5.43 Estimated AI Cost This Week
+💵 $4.04 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
-Opus                     2,221 lines         ████████████████████████░   96.78 % 
-Sonnet                   74 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Opus                     2,221 lines         █████████████████████████   99.64 % 
+Sonnet                   8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.47% of written lines came from AI
-📚 Verbose Prompter — average 2,986 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.97% of changed lines were hand-edited
+🤖 AI-Driven — 99.14% of written lines came from AI
+📚 Verbose Prompter — average 3,959 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.85% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -147,7 +146,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 22:32:39 UTC
+ Last Updated on 30/09/2026 22:30:00 UTC
 <!--END_SECTION:waka-->
 ---
 
