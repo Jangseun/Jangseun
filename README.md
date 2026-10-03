@@ -90,28 +90,27 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               18 mins             █████████░░░░░░░░░░░░░░░░   36.85 % 
-Python                   16 mins             ████████░░░░░░░░░░░░░░░░░   32.42 % 
-CSS                      15 mins             ████████░░░░░░░░░░░░░░░░░   30.72 % 
+JavaScript               18 mins             ███████████░░░░░░░░░░░░░░   44.24 % 
+CSS                      15 mins             █████████░░░░░░░░░░░░░░░░   36.88 % 
+Python                   7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
 
 🔥 Editors: 
-Claude Code              37 mins             ███████████████████░░░░░░   75.26 % 
-VS Code                  12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+Claude Code              37 mins             ███████████████████████░░   90.35 % 
+VS Code                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
 
 🐱‍💻 Projects: 
-Glitter                  41 mins             █████████████████████░░░░   83.30 % 
-Unknown Project          8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Glitter                  41 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 mins (76.93%)
+⏱ AI Coding Time: 38 mins (92.35%)
 
-✍️ 2,188 lines written by AI, 19 lines written by hand (99.14% AI-written)
+✍️ 2,188 lines written by AI, 1 lines written by hand (99.95% AI-written)
 
 🔤 280,207 Input Tokens, 82,704 Output Tokens
 
@@ -123,10 +122,10 @@ Opus                     2,221 lines         ███████████�
 Sonnet                   8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.14% of written lines came from AI
+🤖 AI-Driven — 99.95% of written lines came from AI
 📚 Verbose Prompter — average 3,959 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.85% of changed lines were hand-edited
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -146,7 +145,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 22:28:21 UTC
+ Last Updated on 03/10/2026 21:39:46 UTC
 <!--END_SECTION:waka-->
 ---
 
