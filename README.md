@@ -90,42 +90,22 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               18 mins             ███████████░░░░░░░░░░░░░░   44.24 % 
-CSS                      15 mins             █████████░░░░░░░░░░░░░░░░   36.88 % 
-Python                   7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              37 mins             ███████████████████████░░   90.35 % 
-VS Code                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Glitter                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 mins (92.35%)
-
-✍️ 2,188 lines written by AI, 1 lines written by hand (99.95% AI-written)
-
-🔤 280,207 Input Tokens, 82,704 Output Tokens
-
-💵 $4.04 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-Opus                     2,221 lines         █████████████████████████   99.64 % 
-Sonnet                   8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 3,959 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -145,7 +125,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 21:49:25 UTC
+ Last Updated on 06/10/2026 00:15:35 UTC
 <!--END_SECTION:waka-->
 ---
 
