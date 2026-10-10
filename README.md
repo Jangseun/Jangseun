@@ -66,21 +66,21 @@ Hello
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-🌆 Daytime                258 commits         ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-🌃 Evening                429 commits         ███████████░░░░░░░░░░░░░░   43.87 % 
-🌙 Night                  199 commits         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+🌞 Morning                92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+🌆 Daytime                258 commits         ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+🌃 Evening                424 commits         ███████████░░░░░░░░░░░░░░   43.58 % 
+🌙 Night                  199 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Wednesday                169 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Thursday                 208 commits         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-Friday                   103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Saturday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Sunday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Monday                   91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Tuesday                  120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Wednesday                168 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Thursday                 208 commits         █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+Friday                   102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Saturday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Sunday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
 ```
 
 
@@ -125,7 +125,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 22:49:20 UTC
+ Last Updated on 10/10/2026 21:56:47 UTC
 <!--END_SECTION:waka-->
 ---
 
