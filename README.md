@@ -53,34 +53,34 @@ Hello
 
 **🐱 My GitHub Data** 
 
-> 📦 418.1 kB Used in GitHub's Storage 
+> 📦 418.7 kB Used in GitHub's Storage 
  > 
-> 🏆 59 Contributions in the Year 2026
+> 🏆 63 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 26 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-🌆 Daytime                258 commits         ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-🌃 Evening                429 commits         ███████████░░░░░░░░░░░░░░   43.87 % 
-🌙 Night                  199 commits         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+🌞 Morning                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+🌆 Daytime                259 commits         ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+🌃 Evening                429 commits         ███████████░░░░░░░░░░░░░░   43.73 % 
+🌙 Night                  199 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Wednesday                169 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Thursday                 208 commits         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-Friday                   103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Saturday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Sunday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Monday                   91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Wednesday                169 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Thursday                 211 commits         █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Friday                   103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Saturday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Sunday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
 ```
 
 
@@ -90,16 +90,18 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               34 mins             ███████████████████░░░░░░   75.30 % 
+Markdown                 7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+CSS                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  45 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+NARO                     45 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -111,11 +113,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ██████████░░░░░░░░░░░░░░░   39.29 % 
-Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Svelte                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JavaScript               12 repos            ██████████░░░░░░░░░░░░░░░   41.38 % 
+Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Svelte                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 ```
 
 
@@ -125,7 +127,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 21:54:30 UTC
+ Last Updated on 22/10/2026 21:52:11 UTC
 <!--END_SECTION:waka-->
 ---
 
