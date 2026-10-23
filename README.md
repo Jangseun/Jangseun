@@ -45,7 +45,7 @@ Hello
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2031%20mins-blue?style=flat)
 
@@ -53,9 +53,9 @@ Hello
 
 **🐱 My GitHub Data** 
 
-> 📦 418.7 kB Used in GitHub's Storage 
+> 📦 418.9 kB Used in GitHub's Storage 
  > 
-> 🏆 63 Contributions in the Year 2026
+> 🏆 75 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,21 +66,21 @@ Hello
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-🌆 Daytime                259 commits         ███████░░░░░░░░░░░░░░░░░░   26.40 % 
-🌃 Evening                429 commits         ███████████░░░░░░░░░░░░░░   43.73 % 
-🌙 Night                  199 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+🌞 Morning                101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+🌆 Daytime                272 commits         ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+🌃 Evening                433 commits         ███████████░░░░░░░░░░░░░░   43.08 % 
+🌙 Night                  199 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Wednesday                169 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Thursday                 211 commits         █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-Friday                   103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Saturday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Sunday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Monday                   93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Wednesday                171 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Thursday                 211 commits         █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Friday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Saturday                 169 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Sunday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
 ```
 
 
@@ -90,18 +90,20 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               34 mins             ███████████████████░░░░░░   75.30 % 
-Markdown                 7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-CSS                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+JavaScript               1 hr 6 mins         ████████████████░░░░░░░░░   64.84 % 
+CSS                      26 mins             ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-NARO                     45 mins             █████████████████████████   100.00 % 
+NARO                     54 mins             █████████████░░░░░░░░░░░░   53.71 % 
+Glitter                  47 mins             ████████████░░░░░░░░░░░░░   46.29 % 
 
 💻 Operating System: 
-Windows                  45 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -113,11 +115,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            ██████████░░░░░░░░░░░░░░░   41.38 % 
+JavaScript               13 repos            ███████████░░░░░░░░░░░░░░   44.83 % 
 Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
 HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 Svelte                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -127,7 +129,7 @@ Svelte                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 21:52:11 UTC
+ Last Updated on 23/10/2026 21:35:29 UTC
 <!--END_SECTION:waka-->
 ---
 
