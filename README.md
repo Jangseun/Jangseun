@@ -45,7 +45,7 @@ Hello
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2031%20mins-blue?style=flat)
 
@@ -90,20 +90,20 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               1 hr 6 mins         ████████████████░░░░░░░░░   64.84 % 
-CSS                      26 mins             ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+JavaScript               1 hr 6 mins         ███████████████░░░░░░░░░░   61.15 % 
+CSS                      32 mins             ████████░░░░░░░░░░░░░░░░░   30.06 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🔥 Editors: 
-VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-NARO                     54 mins             █████████████░░░░░░░░░░░░   53.71 % 
-Glitter                  47 mins             ████████████░░░░░░░░░░░░░   46.29 % 
+NARO                     54 mins             █████████████░░░░░░░░░░░░   50.66 % 
+Glitter                  53 mins             ████████████░░░░░░░░░░░░░   49.34 % 
 
 💻 Operating System: 
-Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -129,7 +129,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jangseun/Jangseun/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 22:50:23 UTC
+ Last Updated on 27/10/2026 22:31:08 UTC
 <!--END_SECTION:waka-->
 ---
 
